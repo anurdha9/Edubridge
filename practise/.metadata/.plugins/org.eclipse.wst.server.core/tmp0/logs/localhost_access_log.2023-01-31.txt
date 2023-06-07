@@ -1,0 +1,16 @@
+127.0.0.1 - - [31/Jan/2023:12:39:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:12:39:33 +0530] "GET /ServletApp/ HTTP/1.1" 404 766
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:12:39:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:12:39:42 +0530] "GET /ServletApp/first HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:12:39:52 +0530] "GET /ServletApp/input.html HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:12:40:23 +0530] "GET /ServletApp/First.html HTTP/1.1" 200 301
+127.0.0.1 - - [31/Jan/2023:12:41:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:12:41:47 +0530] "GET /ServletApp/ HTTP/1.1" 200 301
+127.0.0.1 - - [31/Jan/2023:22:05:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:22:05:23 +0530] "GET /ServletApp/WEB-INF/classes/ServletApp/SecondServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:22:05:23 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:22:06:59 +0530] "GET /ServletApp/WEB-INF/classes/ServletApp/SecondServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:22:06:59 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [31/Jan/2023:22:07:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:22:07:48 +0530] "GET /ServletApp/WEB-INF/classes/ServletApp/SecondServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:22:07:48 +0530] "GET /favicon.ico HTTP/1.1" 404 762

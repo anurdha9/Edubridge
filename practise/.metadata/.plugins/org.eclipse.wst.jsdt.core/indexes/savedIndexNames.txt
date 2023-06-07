@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+D:\Adavjava\practise\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2696250317.index
+3640304433.index
+1212530336.index
+4007457332.index
+2952631207.index
+2828031934.index
+5183619.index
+4175600569.index
+1061326390.index
+514396080.index
+1882448955.index
+2275433994.index
+1036022940.index
+1493952767.index
+2654310144.index
+1024438576.index
+2959625674.index
